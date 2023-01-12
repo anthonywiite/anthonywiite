@@ -5,7 +5,7 @@
  Science, coding and athletics - running to be specific.
 
 - 🌱 I’m currently learning ...
-JS and React, soon to be Python.
+JS with React, soon to be Java and Swift.
 
 - 💞️ I’m looking to collaborate on ...
 Web servers and SaaS applications. Or open source web apps.
